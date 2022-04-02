@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="56">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="56">
+<articleinfo>
+<articleid>56</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>我的师父是魔女</articlename>
+<articlecode>wodeshifushimonv</articlecode>
+<author>虚蓬飘零</author>
+<keywords></keywords>
+<intro>    吾之夫君，岂容尔等放肆，诸神听令，给我杀！</intro>
+<sortid>2</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

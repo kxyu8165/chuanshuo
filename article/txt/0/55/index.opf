@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="55">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="55">
+<articleinfo>
+<articleid>55</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>拂水龙吟凤梧扬</articlename>
+<articlecode>fushuilongyinfengwuyang</articlecode>
+<author>独孤寻影</author>
+<keywords></keywords>
+<intro>    五代十国，乱世风云，后周显德年间，佛劫降世，佛门高僧入世消劫，引发了诸多江湖儿女的家国情仇，为天下太平演绎岀荡气回肠的传奇故事……寂寂夜空孤月寒，十七年离别茫茫。    一念执真，南风绿依，盛颜银发证衷肠。最是有情    “负情蛊”，三年生离道心初。剑啸弦荡，逍遥慕云，一念倾情一生终。    啸引苍波，漫卷山河，心志难酬朱颜改。孤情骄阳，若玉独镜，小楼空照人何在？    日月无改江山裂，金戈铁马雁泣血。渊鱼更龙，世宗执戟，风起云涌荡山岳……一缕清风，人间太平吹拂……</intro>
+<sortid>2</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

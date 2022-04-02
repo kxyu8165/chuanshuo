@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="67">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="67">
+<articleinfo>
+<articleid>67</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>LOL：这个选手太离谱</articlename>
+<articlecode>zhegeshuashoutailipu</articlecode>
+<author>作家Md3j0C</author>
+<keywords></keywords>
+<intro>    2031年，一款能检测LOL玩家天赋基因的产品面世。2033年，LPL赛区对于青训选手的选拔条件之一，就是基于该项检测。    年过三十浑浑噩噩的许青出于不甘，自行检测之后发现其天赋值为：手速99.7分，反应99.6分，意识100分，思维99.9分。    顶级职业选手的天赋值大多只有90分出头，超过95分都是凤毛麟角。    正所谓人生如戏，遗憾错过黄金时代的许青，一次酩酊大醉后发现自己回到了2021年。    那一年，他十七岁。</intro>
+<sortid>6</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

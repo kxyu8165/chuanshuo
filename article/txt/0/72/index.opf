@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="72">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="72">
+<articleinfo>
+<articleid>72</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>三国之封神系统</articlename>
+<articlecode>sanguozhifengshenxitong</articlecode>
+<author>狂龙宇恒</author>
+<keywords></keywords>
+<intro>    重生在东汉末年的韩枫，意外救了一位    “仙人”，激活    “封神”系统，拥有了各种神技。韩枫意外发现，这并不是他所了解的三国年代：这里有拥有各种神力的猛将，也有可以呼风唤雨撒豆成兵的仙师，还有可以召唤各种神兽助战的巫师，甚至还有着更多不为人知的仙境、禁地......……总之，这是一个神话的世界，想要活下去的唯一办法，就是扫平乱世，统一天下。    【展开】【收起】</intro>
+<sortid>4</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

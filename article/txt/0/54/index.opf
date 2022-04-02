@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="54">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="54">
+<articleinfo>
+<articleid>54</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>星际第一女猎人</articlename>
+<articlecode>xingjidiyinvlieren</articlecode>
+<author>林厚古薄</author>
+<keywords></keywords>
+<intro>    身为星际第一的女猎人，星族少女艾达琪接下了星际联盟发布的逃犯悬赏，为此她来到地球结识了天翼族少年烈羽，两人结成搭档相爱相杀，穿越古今，跑遍世界为的就是完成悬赏任务，最后老死不相往来，但事情似乎并不是表面上那么简单......</intro>
+<sortid>8</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

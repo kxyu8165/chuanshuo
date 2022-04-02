@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="59">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="59">
+<articleinfo>
+<articleid>59</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>怪谈模拟器</articlename>
+<articlecode>guaitanmoniqi</articlecode>
+<author>愚钝钟声</author>
+<keywords></keywords>
+<intro>    想去体验作为怪谈的一生吗？想拥有怪谈的能力吗？那就来试试看，你能否承受！    作为——怪谈的一生！【第一副本可能不大熟练，第二副本就还好了。    】</intro>
+<sortid>8</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

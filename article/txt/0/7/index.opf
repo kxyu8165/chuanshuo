@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="7">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="7">
+<articleinfo>
+<articleid>7</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>国宝神鉴</articlename>
+<articlecode>guobaoshenjian</articlecode>
+<author>金元宝本尊</author>
+<keywords></keywords>
+<intro>    生若蝼蚁，半点残灯！    命比薄纸，将灭余火！    一叶浮萍，逆天而行！    一束草芥，惊世壮举！    祖龙皇帝灭六国收天下之金铸十二金人陈列于阿房殿前，又铸九头青铜龙置于章台宫中。    九头青铜龙背负和氏璧、鹿卢剑、随侯珠、传国玉玺等九件天下奇珍！    祖龙陨落，和氏璧、鹿卢剑、随侯珠、九头青铜龙随祖龙陪葬秦陵。    金铎大难不死重回都市，查找当年灭门真相！    我这一生，只为复仇！</intro>
+<sortid>3</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>

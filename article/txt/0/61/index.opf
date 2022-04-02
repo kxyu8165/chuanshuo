@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <package id="61">
 <articleinfo>
@@ -21,4 +22,29 @@
 </articleinfo>
 <chapters>
 </chapters>
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="61">
+<articleinfo>
+<articleid>61</articleid>
+<postdate>0</postdate>
+<lastupdate>0</lastupdate>
+<infoupdate>0</infoupdate>
+<articlename>日月同辉</articlename>
+<articlecode>riyuetonghui</articlecode>
+<author>乡村原野</author>
+<keywords></keywords>
+<intro>    李家五代单传后，生下一女。    男大当婚，女大当嫁！    李菡瑶：什么，出嫁女不能继承家业？那我不嫁了！不嫁的话，后继无人。那就招赘婿！    男主：嫁给我！    女主：不，你嫁我！    她和他的相逢，如天雷勾动地火，并席卷天下男人和女人。男尊女卑的制度受到史无前例的冲击，封闭几千年的深闺被破开，女人们冲了出来……    本文主角不穿越不重生。</intro>
+<sortid>8</sortid>
+<typeid>0</typeid>
+<words>0</words>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>1</imgflag>
+<lastchapterid>0</lastchapterid>
+<lastchapter>最新章节</lastchapter>
+</articleinfo>
+<chapters>
+</chapters>
+>>>>>>> a48a69f2f (new)
 </package>
